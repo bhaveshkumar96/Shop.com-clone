@@ -1,11 +1,10 @@
 import './App.css';
-import MainSlider from "./Components/Crousel/MainSlider"
+import Navbar from './Components/Navbar';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <MainSlider/>
-      </header>
+      
+      <Navbar/>
     </div>
   );
 }

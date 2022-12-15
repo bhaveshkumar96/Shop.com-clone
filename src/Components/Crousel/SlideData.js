@@ -1,11 +1,11 @@
 export const SlideData = [
     {
       image:
-        "https://cdna.lystit.com/cms/blackfriday_XL_2800_1050_23a75a1eaf.gif"
+        "https://img.shop.com/Image/homepage/shop-gbr-102789-holiday-hot-toys-banners-1600x300-img-min1669996056936.jpg"
     },
     {
       image:
-        "https://cdna.lystit.com/cms/DESKTOP_XL_292112190c.png"
+        "https://img.shop.com/Image/homepage/shopping-pq2237-essentials-banner1556313062244.jpg"
     }
   ];
-  
+  // https://img.shop.com/Image/homepage/shopping-pq2237-essentials-banner1556313062244.jpg
