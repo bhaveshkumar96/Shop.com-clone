@@ -75,6 +75,7 @@ function Navbar() {
           </HStack>
         </HStack>
       </Stack>
+      
     </>
   );
 }
