@@ -57,7 +57,7 @@ function Navbar() {
               <br />
 <hr />
 <br />
-              <Text>Registration</Text>
+              <Text>Welcome <b> {isAuth ? "Bhavesh Kumar" : ""} </b>  </Text>
               
             </DrawerBody>
   
@@ -106,13 +106,13 @@ function Navbar() {
         </Button>
           </HStack>
           <HStack gap={10}>
-            <Text>Exclusive Brands</Text>
-            <Text>Stores</Text>
-            <Text>Deals</Text>
-            <Text>SHOP Travel</Text>
-            <Text>Departments</Text>
-            <Text>ShopBuddy</Text>
-            <Text>SHOP Local</Text>
+          <Link to={"/brands"}> Exclusive Brands </Link>
+            <Text cursor={'pointer'}>Stores</Text>
+            <Text cursor={'pointer'}>Deals</Text>
+            <Text cursor={'pointer'}>SHOP Travel</Text>
+            <Text cursor={'pointer'}>Departments</Text>
+            <Text cursor={'pointer'}>ShopBuddy</Text>
+            <Text cursor={'pointer'}>SHOP Local</Text>
           </HStack>
           <HStack align={"center"} cursor="pointer">
             <HStack>
