@@ -1,7 +1,7 @@
 
 import Footer from "../Footer";
 import Navbar from "../Navbar";
-import  {SimpleGrid, GridItem, Box} from "@chakra-ui/react";
+import  {SimpleGrid} from "@chakra-ui/react";
 let imageData = [
   {
     image:
