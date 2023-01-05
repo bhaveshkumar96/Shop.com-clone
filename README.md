@@ -4,7 +4,7 @@ Home page
 ![shoppers-home-page-slider](https://user-images.githubusercontent.com/110034571/210764694-421f6a55-aaf0-405d-8565-be4f97f4336b.PNG)
 Drawer 
 ![shoppers-drawer](https://user-images.githubusercontent.com/110034571/210764788-951efa80-fec0-4e91-b680-819903fa4392.PNG)
-<h1>Footer </h1>
+Footer
 ![shoppers-footer-part](https://user-images.githubusercontent.com/110034571/210764812-838d6c45-ec22-4e6d-b11b-268e77bfd4b4.PNG)
 Login page
 ![shoppers-login-page](https://user-images.githubusercontent.com/110034571/210764839-c6b75e23-2fbf-40ef-b57f-6a6fdefb33ad.PNG)
